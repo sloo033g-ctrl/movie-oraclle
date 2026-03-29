@@ -1,4 +1,4 @@
-# 🎬 Movie Oracle
+# 🎬 Movie Oraclle
 
 > A retro-minimalist Hollywood oracle that predicts the fate of any movie concept
 ---
