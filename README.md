@@ -80,14 +80,6 @@ movie-oracle/
 
 ---
 
-## 🌐 Deployment
-
-### Vercel (recommended)
-
-1. Push to GitHub
-2. Import repo at [vercel.com](https://vercel.com)
-3. Add `VITE_ANTHROPIC_API_KEY` under **Environment Variables**
-4. Deploy — every push to `main` auto-deploys
 
 ### GitHub Pages
 
@@ -96,7 +88,6 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-> ⚠️ GitHub Pages can't protect environment variables. Use Vercel for any key-secured deployment.
 
 ---
 
